@@ -1,21 +1,3 @@
-📅 **Date:** 13 March 2026
-⏰ **Time:** 21:20 IST
-
-Below is the **complete `README.md` file in proper Markdown format** including:
-
-* Clean **project structure**
-* **Docker workflow**
-* **Kubernetes (Minikube) deployment**
-* **Architecture**
-* **Professional GitHub formatting**
-
-You can **copy and paste this entire file into your `README.md`**.
-
----
-
-# FULL README.md
-
-```markdown
 # Full Stack Chat Application Deployment
 
 A real-time **full-stack chat application** containerized using **Docker** and deployed on **Kubernetes (Minikube)**.  
