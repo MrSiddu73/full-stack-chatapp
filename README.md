@@ -226,5 +226,3 @@ LinkedIn
 https://linkedin.com
 
 ```
-
----
